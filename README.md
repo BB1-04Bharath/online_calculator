@@ -1,2 +1,2 @@
 # online_calculator
-Bharath minor project
+MY first project
