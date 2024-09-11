@@ -1,0 +1,28 @@
+/* Basic Reset */
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    background-color: brown;
+
+}
+
+/* Center Calculator */
+.container {
+    max-width: 400px;
+}
+
+/* Calculator Display */
+.display {
+    font-size: 2rem;
+    text-align: right;
+    height: 60px;
+    overflow: hidden;
+}
+
+/* Calculator Buttons */
+.buttons .btn {
+    margin: 5px;
+    font-size: 1.5rem;
+}
